@@ -9,4 +9,5 @@ dependencies:
   - scipy
   - ipywidgets
   - matplotlib
+  - ipykernel
 prefix: /Users/lsahar/miniconda3/envs/d400_ps3_env
